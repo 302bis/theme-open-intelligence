@@ -1,0 +1,10 @@
+---
+name : OPI-theme
+website :  http://opintel.github.io/
+description :  "Open Intelligence theme for Jekyll + Jekyll-Bootstrap."
+git_url : git://github.com/302bis/theme-open-intelligence.git
+source_url : https://github.com/302bis/theme-open-intelligence
+author:
+  name : Patricio Bustos
+  email : achalay@gmail.com
+  website : http://302bis.net/
